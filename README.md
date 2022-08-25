@@ -57,3 +57,9 @@ git remote add origin https://github.com/shyquisyz/myapp.git
 ```
 git push -u origin master
 ```
+
+# Github 반복푸시
+
+```
+cd desktop/myapp  > git add . >  git commit -m "업로드 메세지" > git push origin master
+```
