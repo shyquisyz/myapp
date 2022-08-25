@@ -35,3 +35,25 @@ node app.js
 ```
 control + C
 ```
+
+# Github 최초 세팅
+
+```
+git init
+```
+
+```
+git add .
+```
+
+```
+git commit -m "first commit"
+```
+
+```
+git remote add origin https://github.com/shyquisyz/myapp.git
+```
+
+```
+git push -u origin master
+```
